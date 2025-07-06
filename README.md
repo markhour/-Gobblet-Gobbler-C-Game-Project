@@ -1,5 +1,3 @@
-# -Gobblet-Gobbler-C-Game-Project
-
 # Gobblet Gobbler – C++ Game Project
 
 A console-based C++ implementation of **Gobblet Gobbler**, a strategic two-player game inspired by Tic-Tac-Toe but with a twist—players use different sized pieces to "gobble" smaller ones on the board!
